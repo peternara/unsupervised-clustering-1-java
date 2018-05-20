@@ -1,7 +1,7 @@
 # clustering-with-weka
 Java implementation of clustering using weka api
 
-**Implemented clustering method: **
+**Implemented clustering method:**
 
 Simple K-Means, DBSCAN, Agglomerative Hierarchical Clustering
 
