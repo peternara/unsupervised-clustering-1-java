@@ -1,4 +1,4 @@
-# clustering-with-weka
+# clustering
 Java implementation of clustering using weka api
 
 **Implemented clustering method:**
